@@ -1,14 +1,14 @@
 <h1 align="center">30 Days Of Python</h1>
 <p align="center"> <img src="./image/announcement.png" alt="hello" width="500" /></p>
 
-
+<!--
 <div align="center">
 
 ![Issues](https://github.com/hackclubsal/30DayOfPython/issues)
 ![Pull Requests](https://github.com/hackclubsal/30DayOfPython/pulls)
 ![Forks](https://github.com/hackclubsal/30DayOfPython/network/members)
 ![Stars](https://github.com/hackclubsal/30DayOfPython/stargazers)
-)
+)-->
 
 </div>
 
