@@ -2,7 +2,7 @@
 <p align="center"> <img src="./image/announcement.png" alt="hello" width="500" /></p>
 
 
- Seeing you guys taking interest in coding, and some of you looking for projects to practice, Hackclub SAL is here with its new programme called the <b>30 Days Of Python</b> where you can practice your programming skills through our provided projects based on basic to intermidiate programming.
+ Seeing you guys taking interest in coding, and some of you looking for projects to practice, Hackclub SAL is here with its new programme called the <b>30 Days Of Python</b> where you can practice your programming skills through out provided projects based on basic to intermidiate programming.
 
 
 This July Code Program aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
