@@ -10,7 +10,7 @@ This July Code Program aims to simplify and guide the way beginners make their f
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 
-<h1 align="left">Our Partner:-</h1>
+<h1 align="center">Our Partner</h1>
 <p align="center"> <img src="./image/official partner.png" alt="hello" width="500" /></p>
 
 
