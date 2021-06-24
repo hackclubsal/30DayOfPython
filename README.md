@@ -11,7 +11,7 @@ This July Code Program aims to simplify and guide the way beginners make their f
 
 
 <h1 align="left">Our Partner:-</h1>
-<p align="center"> <img src="./image/officialpartner.png" alt="hello" width="500" /></p>
+<p align="center"> <img src="./image/official partner.png" alt="hello" width="500" /></p>
 
 
 
