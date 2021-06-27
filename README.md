@@ -23,6 +23,8 @@ This July Code Program aims to simplify and guide the way beginners make their f
 <h1 align="center">Our Partner</h1>
 <p align="center"> <img src="./image/official partner.png" alt="hello" width="500" /></p>
 
+follow us https://linktr.ee/hackclubsal
+
 
 
 
