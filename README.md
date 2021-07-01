@@ -24,6 +24,84 @@ This July Code Program aims to simplify and guide the way beginners make their f
 <p align="center"> <img src="./image/official partner.png" alt="hello" width="500" /></p>
 
 
+## Project Maintainer
+
+- [@sshiv5768](https://github.com/sshiv5768)
+- [@136tejas](https://github.com/136tejas)
+
+  
+## Process for upload your work
+
+Step-1
+
+```bash
+  Forks Hackclubsal\30 days of python Repository 
+  https://github.com/hackclubsal/30DayOfPython.git
+```
+Step-2
+
+```bash
+  open gitbash and type this command = git Clone URL ( git clone url )
+```
+ Step-3
+
+```bash
+   sync your account in visual studio code
+``` 
+Step-4
+
+```bash
+  open cloned folder of this repo in VSC
+```
+Step-5
+
+```bash
+  write your code
+```
+Step-6
+
+```bash
+  Add code file in Day(#) Folder ( file name= Day(#)_username.py) ( username = Your Name )
+```
+Step-7
+
+```bash
+  open git bash and write this command
+  git config --global user.name "your github username"
+  git config --global user.email "email that you signed in github"
+   
+  ## you just have to do step 7 once.
+  ## not for everytime
+ 
+```
+
+Step-8
+
+```bash
+  stage changes in source control
+```
+Step-9
+
+```bash
+  commit changes in source control
+```
+Step-10
+
+```bash
+  push changes from source control
+```
+Step-11
+
+```bash
+  now go to your github account and make pull request
+
+  wait for the project maintainer to accept your request.
+
+  ## YOU ARE NOW OPEN SOURCE CONTRIBUTOR.
+
+```
+
+
 
 
 
