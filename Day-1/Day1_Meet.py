@@ -1,0 +1,2 @@
+p=input()
+print(p)
