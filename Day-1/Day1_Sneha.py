@@ -1,1 +1,1 @@
-print("Enter your name: Sneha Vishwakarma")
+print(input("Enter your name: "))
