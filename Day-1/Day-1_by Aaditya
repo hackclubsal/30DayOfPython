@@ -1,0 +1,2 @@
+#day1_challenge 
+a = input("What's your name? \n").title()
