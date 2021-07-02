@@ -1,0 +1,2 @@
+a = float(input("Enter number"))
+print(a**(1/3))
