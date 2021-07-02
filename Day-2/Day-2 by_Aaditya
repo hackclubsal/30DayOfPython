@@ -1,0 +1,6 @@
+#day2_challenge
+
+import math
+x=float(input("Enter the num: "))
+croot = math.ceil(x**(1/3))
+print("The cube root of the num is: ",croot)
