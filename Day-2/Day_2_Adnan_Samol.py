@@ -1,6 +1,5 @@
 #Day-2
 a = float(input("Enter the number to find cube root:"))
-125
 def cubeRoot(a):
     if(a == 0):
         return 0;
