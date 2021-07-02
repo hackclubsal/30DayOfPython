@@ -7,7 +7,7 @@
 
 #-> Example
 #Input: a = 125
-#Output: 5. 
+#Output: 5
 
 
 import math
