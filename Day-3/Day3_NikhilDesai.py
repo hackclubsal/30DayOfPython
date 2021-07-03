@@ -1,4 +1,9 @@
 def check_number(num):
+    '''
+
+    This function Checks whether a number is divisible by 10 and 20
+
+    '''
 
     if num > 0:
         if all([num % 10 == 0, num % 20 == 0]):
