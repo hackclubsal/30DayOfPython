@@ -1,2 +1,3 @@
 # First day Task
-print("hello world")
+name = input('Enter your name:')
+print(name)
