@@ -1,0 +1,5 @@
+n = int(input("Enter number"))
+if (n % 20 == 0):
+    print("Yes, " + str(n) + " is divisible by 10 & 20")
+else: 
+    print("No, " + str(n) + " is not divisible by 10 & 20")
