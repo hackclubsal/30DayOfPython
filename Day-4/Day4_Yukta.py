@@ -5,4 +5,4 @@ for i in range(0,x):
         print("* ",end ="")
         count +=1
     print()
-print(count)
+print("Total number of stars: {}".format(count))
