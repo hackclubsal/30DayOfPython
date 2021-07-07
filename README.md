@@ -32,7 +32,7 @@ So what are you waiting for, join us to make this July to Pythonic July and step
 
 
 <h1 align="left">Our Partner</h1>
-<p align="center"> <img src="./image/official partner.png" alt="hello" width="500" /></p>
+<p align="center"> <img src="./image/SPON.png" alt="hello" width="500" /></p>
 
 
 ## Project Maintainer
