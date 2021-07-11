@@ -1,0 +1,14 @@
+#day8_challenge
+
+n=int(input("Enter the value for N: "))
+m=int(input("Enter the value for M: "))
+
+sum =0
+if(n > m):
+    print("Please give right input!")
+else:
+    for i in range(n+1,m):
+        if(i % 2 == 0):
+            sum = sum + i
+        
+    print("Sum : ",sum)
