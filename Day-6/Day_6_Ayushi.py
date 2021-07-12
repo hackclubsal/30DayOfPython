@@ -7,7 +7,7 @@
 # -> Example
 # Input: A
 # Output: 065
-# Advance: Also print the binary value of it.
+# Advance: Also print the binary value of it
 
 n=input()
 print(f"ASCII Code of {n} is {ord(n)}")
