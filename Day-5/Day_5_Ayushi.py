@@ -2,7 +2,7 @@
 
 # -> Question: Write a program to find out the total number of days in a given month.
 # -> Input: Take n which is number of the month
-# -> Output: print number of days in the given month.
+# -> Output: print number of days in the given month
 
 # -> Example
 # Input: 6 (June)
