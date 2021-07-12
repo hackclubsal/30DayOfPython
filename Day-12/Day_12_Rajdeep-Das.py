@@ -1,3 +1,6 @@
+//Performing Linear Search Operation in python
+
+
 def linearsearch(arr, x):
    for i in range(len(arr)):
       if arr[i] == x:
