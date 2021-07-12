@@ -1,4 +1,4 @@
-//Performing Linear Search Operation in python
+# Performing Linear Search Operation in python
 
 
 def linearsearch(arr, x):
@@ -13,4 +13,4 @@ print("element found at index "+str(linearsearch(arr,x)))
 
 
 
-//output: element found at index 3
+# output: element found at index 3
