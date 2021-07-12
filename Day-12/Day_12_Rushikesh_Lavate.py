@@ -5,7 +5,7 @@ def linearSearch(n,k):
     print(l)
     ind = -1
 
-    # find our key element is present or not
+    # find out key element's position it it is present in list or not
     for j in l:
         if k==j:
             ind = l.index(k)
