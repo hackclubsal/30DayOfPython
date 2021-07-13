@@ -16,7 +16,7 @@ def BinarySearch(l,k):
             l = l[:mid]
             return BinarySearch(l, k)
     else:
-        print(-1)
+        print('Element Not Found')
 
 def CreateList(n,k):
     # creating a list of n element using list comph...
