@@ -1,0 +1,24 @@
+#day16_challenge
+
+def createStack(st):
+    st = []
+
+def addData(st, a):
+    st.append(a)
+
+def DelData(st):
+    st.pop()
+
+def prstack(st):
+    print(st)
+    
+s = []
+
+createStack(s)
+addData(s, 3)
+addData(s, 7)
+addData(s, 4)
+DelData(s)
+addData(s, 8)
+
+prstack(s)
