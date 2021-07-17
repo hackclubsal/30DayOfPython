@@ -15,7 +15,7 @@ def stack():
             else:
                 print('No element in list')
                 print(stk)
-        elif (choice == 4):
+        elif (choice == 3):
             print('Final stack : ',stk)
             break
         else:
