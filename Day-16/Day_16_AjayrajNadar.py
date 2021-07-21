@@ -6,6 +6,7 @@ def Del(stack):
     stack.pop()
 def pr(stack):
     print(stack)
+    
 s = []
 createStack(s)
 addData(s, 3)
