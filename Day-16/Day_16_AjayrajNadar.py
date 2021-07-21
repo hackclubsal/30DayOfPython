@@ -8,11 +8,11 @@ def pr(stack):
     print(stack)
     
 s = []
-createStack(s)
-addData(s, 3)
-addData(s, 7)
-addData(s, 4)
-DelData(s)
-addData(s, 8)
+create(s)
+add(s, 3)
+add(s, 7)
+add(s, 4)
+Del(s)
+add(s, 8)
 
-prstack(s)
+pr(s)
