@@ -40,6 +40,7 @@ So what are you waiting for, join us to make this July to Pythonic July and step
 - [@sshiv5768](https://github.com/sshiv5768)
 - [@136tejas](https://github.com/136tejas)
 - [@adnansamol](https://github.com/adnansamol)
+- [@Nidhir2k1](https://github.com/Nidhir2k1)
 
   
 ## Process for upload your work
