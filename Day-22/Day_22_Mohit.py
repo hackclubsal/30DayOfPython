@@ -113,5 +113,6 @@ if __name__ == '__main__':
 	print()
 	print("Inorder traversal after insertion:", end = " ")
 	inorder(root)
+	
 
 '''
