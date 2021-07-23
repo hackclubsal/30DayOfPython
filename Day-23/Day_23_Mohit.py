@@ -1,4 +1,4 @@
-
+#roatation in Array : 
 def solution(A, K):
     old = A
     new = [0]*len(A)
