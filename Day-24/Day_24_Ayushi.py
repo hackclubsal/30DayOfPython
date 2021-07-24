@@ -4,13 +4,11 @@
 
 # -> Input: 
 # Email= abs@gmail.com
-
 # -> Output:-
 # Valid Email!
 
 # -> Input:-
 # Email = g33n.com
-
 # -> Output:- 
 # Invalid Email!
 
