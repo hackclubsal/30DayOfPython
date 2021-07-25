@@ -1,5 +1,5 @@
 """
-    Question: Two Sum: Given an array of integers nums and an integer target, 
+    Question: Two Sum: Given an array of integers nums and an integer target,
     :return:
         indices of the two numbers such that they add up to target
 """
@@ -16,9 +16,8 @@ class find_position:
         for i in range(len(l)):
             for j in range(i):
                 if (l[i] + l[j]) == self.num:
-                    return (j,i)
+                    print((j,i))
 
 if __name__ == '__main__':
     object = find_position()
-    pos = object.get_position()
-    print(pos)
+    object.get_position()
