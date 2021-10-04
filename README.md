@@ -1,21 +1,19 @@
-
-# 30 Days Of Python
+# 30 Days Of Python for beginer
 
 Hackclub SAL is going to organize #30DaysOfPython Challenge! A Fully Open-source event based on solving Python challenges.
 
 What students will get to learn:
+
 - Students will get an idea how open-source project works.
 - Students will get to learn about Python, Programming, Git, GitHub, how to make a pull request, how to contribute to Opens-Source and lots more.
 - We will also arrange AMA sessions with Industry experts to motivate more students.
 
 Rewards:
-- Every  matched criteria participants will get verified certificates from us.
+
+- Every matched criteria participants will get verified certificates from us.
 - Also whoever make sucessful contributions will be nominated in the contributors panel on the Hackclub's official #30DaysofPython project.
 
-
-
 So what are you waiting for, join us to make this July to Pythonic July and step into the Opens-Source world.
-
 
 <p align="center"> <img src="./image/announcement.png" alt="hello" width="500" /></p>
 
@@ -30,10 +28,8 @@ So what are you waiting for, join us to make this July to Pythonic July and step
 
 </div>
 
-
 <h1 align="left">Our Partner</h1>
 <p align="center"> <img src="./image/SPON.jpeg" alt="hello" width="500" /></p>
-
 
 ## Project Maintainer
 
@@ -42,50 +38,55 @@ So what are you waiting for, join us to make this July to Pythonic July and step
 - [@adnansamol](https://github.com/adnansamol)
 - [@Nidhir2k1](https://github.com/Nidhir2k1)
 
-  
 ## Process for upload your work
 
 Step-1
 
 ```bash
-  Forks Hackclubsal\30 days of python Repository 
+  Forks Hackclubsal\30 days of python Repository
   https://github.com/hackclubsal/30DayOfPython.git
 ```
+
 Step-2
 
 ```bash
   open gitbash and type this command = git Clone URL ( git clone url )
 ```
- Step-3
+
+Step-3
 
 ```bash
    sync your account in visual studio code
-``` 
+```
+
 Step-4
 
 ```bash
   open cloned folder of this repo in VSC
 ```
+
 Step-5
 
 ```bash
   write your code
 ```
+
 Step-6
 
 ```bash
   Add code file in Day(#) Folder ( file name= Day(#)_username.py) ( username = Your Name )
 ```
+
 Step-7
 
 ```bash
   open git bash and write this command
   git config --global user.name "your github username"
   git config --global user.email "email that you signed in github"
-   
+
   ## you just have to do step 7 once.
   ## not for everytime
- 
+
 ```
 
 Step-8
@@ -93,16 +94,19 @@ Step-8
 ```bash
   stage changes in source control
 ```
+
 Step-9
 
 ```bash
   commit changes in source control
 ```
+
 Step-10
 
 ```bash
   push changes from source control
 ```
+
 Step-11
 
 ```bash
@@ -113,8 +117,3 @@ Step-11
   ## YOU ARE NOW OPEN SOURCE CONTRIBUTOR.
 
 ```
-
-
-
-
-
